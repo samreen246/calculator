@@ -42,4 +42,9 @@
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.8);
 }
-
+@media only screen and (max-width:600px){
+    .sub-section1{
+        width: 100%;
+        margin-top: 50px;
+    }
+}
